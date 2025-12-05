@@ -1,4 +1,7 @@
-## Hiya! 👋
+## Hiya!   &nbsp;    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQwbXRhc2Z1ZTBtZnBheWVxY2F1bmdlMWZjbWwwajc0MnR5dzRvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z9YISRsmFchUeUMzbM/giphy.gif" width="50">
+
+
+
 
 I'm Joe, a fourth year Computer Science student based in Scotland.
 
