@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there! 👋
+
+I'm Joe, a fourth year Computer Science student based in Scotland.
+
+I enjoy creating  and colloborating within projects to create systems that have true potential to benefit users and society.
+
+Main Tech Stack: Java, Python, C, JS+HTML+CSS, Unity.
+
+I also enjoy using tools such as Figma to aid my design and development.
+
 
 <!--
 **JoeWeir04/JoeWeir04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
