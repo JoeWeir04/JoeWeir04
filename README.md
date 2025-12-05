@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hiya! 👋
 
 I'm Joe, a fourth year Computer Science student based in Scotland.
 
