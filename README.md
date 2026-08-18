@@ -3,7 +3,7 @@
 
 
 
-I'm Joe, a fourth year Computer Science student based in Scotland.
+I'm Joe, recent Computer Science graduate based in Scotland.
 
 I enjoy creating  and colloborating within projects to create systems that have true potential to benefit users and society.
 
